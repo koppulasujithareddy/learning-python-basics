@@ -5,7 +5,7 @@
 - int(input())
 - Simple Calculator
 - type()
-- Comparison Operators
+- Comparison Operators 
 - Logical Operators (and, or)
 
 ## 📂 Programs Included
