@@ -2,7 +2,7 @@
 
 ## 📘 Topics Learned Today
 
-- int(input())
+- int(input()) 
 - Simple Calculator
 - type()
 - Comparison Operators 
