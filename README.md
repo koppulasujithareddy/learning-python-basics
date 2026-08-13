@@ -7,7 +7,7 @@
 - type()
 - Comparison Operators 
 - Logical Operators (and, or)
-
+ 
 ## 📂 Programs Included
 
 - Integer Input Program
