@@ -10,7 +10,7 @@
   
 ## 📂 Programs Included
 
-- Integer Input Program
+- Integer Input Program 
 - Addition Calculator
 - Type Function Program
 - Comparison Operators Program
