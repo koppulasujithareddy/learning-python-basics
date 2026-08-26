@@ -6,7 +6,7 @@
 - Simple Calculator
 - type()
 - Comparison Operators 
-- Logical Operators (and, or)
+- Logical Operators (and, or) 
   
 ## 📂 Programs Included 
 
