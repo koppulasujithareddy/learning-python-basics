@@ -11,7 +11,7 @@
 ## 📂 Programs Included 
 
 - Integer Input Program 
-- Addition Calculator
+- Addition Calculator 
 - Type Function Program
 - Comparison Operators Program 
 - Logical Operators Program
