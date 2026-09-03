@@ -13,7 +13,7 @@
 - Integer Input Program 
 - Addition Calculator 
 - Type Function Program
-- Comparison Operators Program 
+- Comparison Operators Program  
 - Logical Operators Program
 
 ## 🌱 About Me
