@@ -8,7 +8,7 @@
 - Comparison Operators 
 - Logical Operators (and, or)   
    
-## 📂 Programs Included  
+## 📂 Programs Included   
 
 - Integer Input Program 
 - Addition Calculator 
