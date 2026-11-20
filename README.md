@@ -15,7 +15,7 @@
 - Type Function Program
 - Comparison Operators Program  
 - Logical Operators Program
-  
+   
 ## 🌱 About Me
 
 I am currently learning Python step-by-step and improving my coding skills through daily practice.
